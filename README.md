@@ -17,8 +17,15 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
 
 ## Programa
 
+* Presentación
+    * Nombre
+    * Lugar de origen
+    * Trayectoria académica
+    * Experiencia profesional
+    * Expectativas del curso
+
 * [Primeros pasos](./contents/first-steps/first-steps.md)
-   * Presentación de los participantes
+   * Buenas prácticas básicas
    * Control de versiones
    * Metodologías de desarrollo de software
    * Entornos de desarrollo integrados y editores de texto

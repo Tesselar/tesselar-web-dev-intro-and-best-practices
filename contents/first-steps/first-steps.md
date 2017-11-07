@@ -8,6 +8,9 @@
 * DRY
 * KISS
 
+[Bad code](../examples/bad_code.js)
+[Acceptable code](../examples/acceptable_code.js)
+
 ## [Sistemas de control de versiones](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
 Sistema que registra los cambios realizados sobre un archivo o conjunto de archivos a lo largo del tiempo
@@ -33,16 +36,32 @@ _[Try git](https://try.github.io/)_
 
 ### Comandos básicos
 
-* ``` git pull ```
-* ``` git push ```
 * ``` git clone ```
-* ``` git branch ```
-* ``` git merge ```
-* ``` git checkout ```
+* ``` git status ```
 * ``` git add ```
 * ``` git commit  ```
+* ``` git branch ```
+* ``` git checkout ```
+* ``` git merge ```
+* ``` git pull ```
+* ``` git push ```
 
-**Demo git**
+```
+// Install github for desktop
+
+git clone https://github.com/Tesselar/tesselar-web-practice.git
+
+// Create index.html
+
+git add index.html
+
+git status
+
+git commit -m "feat Create main page"
+
+// Create repository in Github for desktop
+
+```
 
 ## Metodologías de desarrollo de software
 * Waterfall
@@ -101,3 +120,5 @@ Protocolo de transferencia donde se puede enviar información entre diferentes s
 * _Petición HTTP desde [Postman](https://www.getpostman.com/)_
 * _Petición desde Chrome_
 * _Petición desde Firefox_
+
+[GitHub API](https://developer.github.com/v3/)
