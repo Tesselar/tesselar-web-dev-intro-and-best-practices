@@ -17,7 +17,7 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
 
 ## Programa
 
-* Primeros pasos
+[* Primeros pasos](./contents/first-steps/first-steps.md)
    * Presentación de los participantes
    * Control de versiones
    * Metodologías de desarrollo de software
@@ -25,7 +25,7 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
    * HTTP
    * Configuración de editor de texto
 
-* HTML
+[* HTML](./contents/html/html.md)
     * Conceptos básicos
         * Semántica
         * Propiedades
@@ -36,7 +36,7 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
         * Validaciones
     * Accesibilidad
 
-* CSS
+[* CSS](./contents/css/css.md)
     * Definición de estilos en una página
     * Estructura
         * Selectores
@@ -53,7 +53,7 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
     * Mobile first
     * Arquitectura CSS
 
-* JavaScript
+[* JavaScript](./contents/javascript/javascript.md)
     * Versiones
     * Definición de scripts
     * Conceptos
@@ -76,7 +76,7 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
         * Drag and drop
     * Chrome developer tools
 
-* Librerías y marcos de trabajo para frontend
+[* Librerías y marcos de trabajo para frontend](./contents/frontend-libraries-frameworks/frontend-libraries-frameworks.md)
     * jQuery
     * Underscore
     * Bootstrap
@@ -92,25 +92,23 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
         * RxJS
         * GraphQL
 
-* Node
+[* Node](./contents/node/node.md)
     * Conceptos
     * Instalación
     * NPM
     * Creando una API (Express)
 
-* APIs
+[* APIs](./contents/apis/apis.md)
     * Tipos de APIs
     * Peticiones HTTP
     * Verbos HTTP
     * Códigos de estado HTTP
     * Hapi JS
 
-* Automatización y configuración de flujos de trabajo
+[* Automatización y configuración de flujos de trabajo](./contents/workflow-automation-configuration/workflow-automation-configuration.md)
     * Webpack
     * Gulp
     * Browserify
     * Eslint
 
-* Recapitulación/Tarea: Creación de aplicación TODOs
-
-* Cierre
+[* Próximos pasos](./contents/next-steps/next-steps.md)
