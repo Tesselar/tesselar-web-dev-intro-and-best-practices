@@ -70,9 +70,6 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
 
 * [APIs](./contents/apis/apis.md)
     * Tipos de APIs
-    * Peticiones HTTP
-    * Verbos HTTP
-    * Códigos de estado HTTP
     * Hapi JS
 
 * [Automatización y configuración de flujos de trabajo](./contents/workflow-automation-configuration/workflow-automation-configuration.md)
