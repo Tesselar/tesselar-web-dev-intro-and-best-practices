@@ -73,9 +73,12 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
     * Hapi JS
 
 * [Automatización y configuración de flujos de trabajo](./contents/workflow-automation-configuration/workflow-automation-configuration.md)
-    * Webpack
+    * DevOps
+    * Continuous integration
+    * Progressive web apps
     * Gulp
-    * Browserify
-    * Eslint
+    * Webpack
+    * npm scripts
+    * eslint
 
 * [Próximos pasos](./contents/next-steps/next-steps.md)
