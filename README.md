@@ -42,27 +42,12 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
     * Arquitectura CSS
 
 * [JavaScript](./contents/javascript/javascript.md)
-    * Versiones
     * Definición de scripts
     * Conceptos
-        * Tipo de valores
-        * Objetos
-        * Funciones
-        * IIFE
-        * Closure
-        * Callbacks
     * DOM
-        * Manipulación
-        * Eventos
     * AJAX
-        * XMLHttpRequest()
-        * fetch()
     * HTML5 APIs
-        * Geolocalización
-        * Audio/Video
-        * Storage
-        * Drag and drop
-    * Chrome developer tools
+    * Chrome dev tools
 
 * [Librerías y marcos de trabajo para frontend](./contents/frontend-libraries-frameworks/frontend-libraries-frameworks.md)
     * jQuery
