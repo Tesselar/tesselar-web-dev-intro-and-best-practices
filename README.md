@@ -60,10 +60,8 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
     * moment
     * Angular 1.x
     * React
-        * React
-        * Redux
-        * RxJS
-        * GraphQL
+    * Redux
+    * RxJS
 
 * [Node](./contents/node/node.md)
     * Conceptos
