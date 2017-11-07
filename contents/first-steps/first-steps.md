@@ -1,5 +1,13 @@
 # Primeros pasos
 
+## Básicas al hacer código
+* Indentar
+* Nombrado
+* Comentarios
+* Single responsability
+* DRY
+* KISS
+
 ## [Sistemas de control de versiones](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
 Sistema que registra los cambios realizados sobre un archivo o conjunto de archivos a lo largo del tiempo
