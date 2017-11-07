@@ -65,7 +65,6 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
 
 * [Node](./contents/node/node.md)
     * Conceptos
-    * Instalación
     * NPM
     * Creando una API (Express)
 
