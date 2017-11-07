@@ -17,7 +17,7 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
 
 ## Programa
 
-[* Primeros pasos](./contents/first-steps/first-steps.md)
+* [Primeros pasos](./contents/first-steps/first-steps.md)
    * Presentación de los participantes
    * Control de versiones
    * Metodologías de desarrollo de software
@@ -25,35 +25,23 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
    * HTTP
    * Configuración de editor de texto
 
-[* HTML](./contents/html/html.md)
-    * Conceptos básicos
-        * Semántica
-        * Propiedades
+* [HTML](./contents/html/html.md)
     * Estructura de una página
     * Tags
-    * Formularios
-        * Estructura
-        * Validaciones
-    * Accesibilidad
+    * Conceptos
 
-[* CSS](./contents/css/css.md)
-    * Definición de estilos en una página
+* [CSS](./contents/css/css.md)x
+    * Definición de estilos
     * Estructura
-        * Selectores
-        * Herencia
-        * Agrupación
+    * Selectores
     * Modelo de caja
-    * Propiedades relacionadas a las fuentes
-    * Unidades de medida
-    * Posicionamiento
+    * Fuentes
     * Transformaciones
     * Preprocesadores
     * CSS en JavaScript
-    * Responsive design
-    * Mobile first
     * Arquitectura CSS
 
-[* JavaScript](./contents/javascript/javascript.md)
+* [JavaScript](./contents/javascript/javascript.md)
     * Versiones
     * Definición de scripts
     * Conceptos
@@ -76,7 +64,7 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
         * Drag and drop
     * Chrome developer tools
 
-[* Librerías y marcos de trabajo para frontend](./contents/frontend-libraries-frameworks/frontend-libraries-frameworks.md)
+* [Librerías y marcos de trabajo para frontend](./contents/frontend-libraries-frameworks/frontend-libraries-frameworks.md)
     * jQuery
     * Underscore
     * Bootstrap
@@ -92,23 +80,23 @@ El participante debe haber trabajado sobre cualquier proyecto de software ligado
         * RxJS
         * GraphQL
 
-[* Node](./contents/node/node.md)
+* [Node](./contents/node/node.md)
     * Conceptos
     * Instalación
     * NPM
     * Creando una API (Express)
 
-[* APIs](./contents/apis/apis.md)
+* [APIs](./contents/apis/apis.md)
     * Tipos de APIs
     * Peticiones HTTP
     * Verbos HTTP
     * Códigos de estado HTTP
     * Hapi JS
 
-[* Automatización y configuración de flujos de trabajo](./contents/workflow-automation-configuration/workflow-automation-configuration.md)
+* [Automatización y configuración de flujos de trabajo](./contents/workflow-automation-configuration/workflow-automation-configuration.md)
     * Webpack
     * Gulp
     * Browserify
     * Eslint
 
-[* Próximos pasos](./contents/next-steps/next-steps.md)
+* [Próximos pasos](./contents/next-steps/next-steps.md)
