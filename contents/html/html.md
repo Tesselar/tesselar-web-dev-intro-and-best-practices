@@ -12,7 +12,7 @@ Lenguaje informático interpretado para la presentación de contenido a través 
     * Contenido
     * Scripts
 
-**Demo HTML: Malas y buenas prácticas**
+**Demo HTML: Buenas prácticas, code into the practice repository a plain html page with a _hello world_**
 
 ## [Tags](https://websitesetup.org/wp-content/uploads/2014/02/HTML-CHEAT-SHEET.png)
 
@@ -34,3 +34,5 @@ Proviene de un vocablo griego que puede traducirse como "significativo". Se trat
 
 ### [Accesibilidad web](https://www.w3.org/WAI/intro/accessibility.php)
 Tiene como objetivo lograr que las páginas sean utilizables por el máximo número de personas, independientemente de sus conocimientos o capacidades personales, así como  de las características técnicas del equipo utilizado para acceder a la web
+
+[10 guidelines to improve accesibility](https://aerolab.co/blog/web-accessibility/)
